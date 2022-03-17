@@ -1,1 +1,1 @@
-# Herencia-de-clases-y-paso-de-par-metros
+# Herencia-de-clases-y-paso-de-parametros
